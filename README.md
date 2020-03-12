@@ -2,6 +2,8 @@
 
 My version of the Space Invaders arcade game. This game was created as the final project for CS 1110 in Python.
 
+!Welcome Screen.png
+
 Credit for pictures of aliens:
 Source code provided for the assignment.
 
