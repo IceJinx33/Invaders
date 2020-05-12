@@ -3,9 +3,9 @@
 My version of the Space Invaders arcade game. This game was created as the final project for CS 1110 in Python.
 
 <p float="left">
-<img src = "Welcome Screen.png" height = "300"/>
-<img src = "Game Play.png" height = "300"/>
-<img src = "Game End.png" height = "300"/>
+<img src = "Welcome Screen.png" height = "200" width = "200"/>
+<img src = "Game Play.png" height = "200" width = "200"/>
+<img src = "Game End.png" height = "200" width = "200"/>
 </p>
 
 Credit for pictures of aliens:
