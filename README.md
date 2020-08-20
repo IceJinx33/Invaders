@@ -1,6 +1,6 @@
 # Invaders
 
-My version of the Space Invaders arcade game. This game was created as the final project for CS 1110 in Python.
+My version of the Space Invaders arcade game. This game was created as the final project for CS 1110 in Python. Code available on request.
 
 <p float="left">
 <img src = "Welcome Screen.png" height = "275" width = "275"/>
